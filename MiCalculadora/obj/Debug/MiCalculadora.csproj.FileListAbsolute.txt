@@ -1,0 +1,23 @@
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\TP_01\TP_01\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\TP_01\TP_01\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\TP_01\TP_01\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\TP_01\TP_01\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\TP_01\TP_01\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\TP_01\TP_01\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\TP_01\TP_01\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\TP_01\TP_01\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\TP_01\TP_01\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\TP_01\TP_01\MiCalculadora\obj\Debug\MiCalculadora.Calculadora.resources
+C:\Users\elfer\Downloads\Laboratorio2_Programacion2-master\2do Cuatri 2020\TP_01\TP_01\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\elfer\Downloads\Laboratorio2_Programacion2-master\2do Cuatri 2020\TP_01\TP_01\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\elfer\Downloads\Laboratorio2_Programacion2-master\2do Cuatri 2020\TP_01\TP_01\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\elfer\Downloads\Laboratorio2_Programacion2-master\2do Cuatri 2020\TP_01\TP_01\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\elfer\Downloads\Laboratorio2_Programacion2-master\2do Cuatri 2020\TP_01\TP_01\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\elfer\Downloads\Laboratorio2_Programacion2-master\2do Cuatri 2020\TP_01\TP_01\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\elfer\Downloads\Laboratorio2_Programacion2-master\2do Cuatri 2020\TP_01\TP_01\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\elfer\Downloads\Laboratorio2_Programacion2-master\2do Cuatri 2020\TP_01\TP_01\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\elfer\Downloads\Laboratorio2_Programacion2-master\2do Cuatri 2020\TP_01\TP_01\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\elfer\Downloads\Laboratorio2_Programacion2-master\2do Cuatri 2020\TP_01\TP_01\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\elfer\Downloads\Laboratorio2_Programacion2-master\2do Cuatri 2020\TP_01\TP_01\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\elfer\Downloads\Laboratorio2_Programacion2-master\2do Cuatri 2020\TP_01\TP_01\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\elfer\Downloads\Laboratorio2_Programacion2-master\2do Cuatri 2020\TP_01\TP_01\MiCalculadora\obj\Debug\MiCalculadora.pdb
