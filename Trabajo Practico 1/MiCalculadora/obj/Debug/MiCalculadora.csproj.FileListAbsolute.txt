@@ -34,3 +34,16 @@ C:\Users\elfer\Documents\GitHub\Laboratorio2_Programacion2\2do Cuatri 2020\Traba
 C:\Users\elfer\Documents\GitHub\Laboratorio2_Programacion2\2do Cuatri 2020\Trabajos Prácticos\TP_01\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
 C:\Users\elfer\Documents\GitHub\Laboratorio2_Programacion2\2do Cuatri 2020\Trabajos Prácticos\TP_01\MiCalculadora\obj\Debug\MiCalculadora.exe
 C:\Users\elfer\Documents\GitHub\Laboratorio2_Programacion2\2do Cuatri 2020\Trabajos Prácticos\TP_01\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\tp_laboratorio_2\Trabajo Practico 1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\tp_laboratorio_2\Trabajo Practico 1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\tp_laboratorio_2\Trabajo Practico 1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\tp_laboratorio_2\Trabajo Practico 1\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\tp_laboratorio_2\Trabajo Practico 1\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\tp_laboratorio_2\Trabajo Practico 1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\tp_laboratorio_2\Trabajo Practico 1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\tp_laboratorio_2\Trabajo Practico 1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\tp_laboratorio_2\Trabajo Practico 1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\tp_laboratorio_2\Trabajo Practico 1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\tp_laboratorio_2\Trabajo Practico 1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\tp_laboratorio_2\Trabajo Practico 1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\tp_laboratorio_2\Trabajo Practico 1\MiCalculadora\obj\Debug\MiCalculadora.pdb

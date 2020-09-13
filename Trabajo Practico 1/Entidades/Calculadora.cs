@@ -13,10 +13,10 @@ namespace Entidades
         /// </summary>
         /// <param name="operador"></param>
         /// <returns>El operador convertido, si no es valido retorna "+"</returns>
-        private static string ValidarOperador(char operador)
+        private static string ValidarOperador(string operador)
         {
-            if ((operador == '+') || (operador == '-') || (operador == '*') || (operador == '/'))
-                return operador.ToString();
+            if ((operador == "+") || (operador == "-") || (operador == "*") || (operador == "/"))
+                return operador;
             else
                 return "+";
         }
@@ -31,9 +31,8 @@ namespace Entidades
         public static double Operar(Numero num1, Numero num2, string operador)
         {
             double resultado = -1;
-            char operadorChar = Convert.ToChar(operador[0]);
 
-            operador = ValidarOperador(operadorChar);
+            operador = ValidarOperador(operador);
 
             switch(operador)
             {

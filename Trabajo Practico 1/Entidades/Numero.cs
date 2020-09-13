@@ -70,12 +70,22 @@ namespace Entidades
             int numeroInt = 0;
             string numeroBinario = string.Empty;
 
-            if ((int.TryParse(numero, out numeroInt)) && (numeroInt > 0))
+            if ((int.TryParse(numero, out numeroInt)))
             {
-                while (numeroInt > 0)
+                if (numeroInt < 0)
+                    numeroBinario = "Valor inválido";
+                else
                 {
-                    numeroBinario = (numeroInt % 2) + numeroBinario;
-                    numeroInt = (numeroInt / 2);
+                    if (numeroInt == 0)
+                        numeroBinario = "0";
+                    else
+                    {
+                        while (numeroInt > 0)
+                        {
+                            numeroBinario = (numeroInt % 2) + numeroBinario;
+                            numeroInt = (numeroInt / 2);
+                        }
+                    }
                 }
             }
             else
