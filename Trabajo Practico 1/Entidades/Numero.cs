@@ -68,14 +68,17 @@ namespace Entidades
         public static string DecimalBinario(string numero)
         {
             int numeroInt = 0;
+            double numeroDouble = 0.0;
             string numeroBinario = string.Empty;
 
-            if ((int.TryParse(numero, out numeroInt)))
+            if ((double.TryParse(numero, out numeroDouble)))
             {
-                if (numeroInt < 0)
+                if (numeroDouble < 0)
                     numeroBinario = "Valor inválido";
                 else
                 {
+                    numeroInt = (int)Math.Abs(numeroDouble);
+
                     if (numeroInt == 0)
                         numeroBinario = "0";
                     else

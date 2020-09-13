@@ -22,3 +22,9 @@ C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2d
 C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\tp_laboratorio_2\Trabajo Practico 1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\tp_laboratorio_2\Trabajo Practico 1\Entidades\obj\Debug\Entidades.dll
 C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\tp_laboratorio_2\Trabajo Practico 1\Entidades\obj\Debug\Entidades.pdb
+C:\Users\elfer\Desktop\UTN\Labo - Progra II\tp_laboratorio_2\Trabajo Practico 1\Entidades\bin\Debug\Entidades.dll
+C:\Users\elfer\Desktop\UTN\Labo - Progra II\tp_laboratorio_2\Trabajo Practico 1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\elfer\Desktop\UTN\Labo - Progra II\tp_laboratorio_2\Trabajo Practico 1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\elfer\Desktop\UTN\Labo - Progra II\tp_laboratorio_2\Trabajo Practico 1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\elfer\Desktop\UTN\Labo - Progra II\tp_laboratorio_2\Trabajo Practico 1\Entidades\obj\Debug\Entidades.dll
+C:\Users\elfer\Desktop\UTN\Labo - Progra II\tp_laboratorio_2\Trabajo Practico 1\Entidades\obj\Debug\Entidades.pdb
