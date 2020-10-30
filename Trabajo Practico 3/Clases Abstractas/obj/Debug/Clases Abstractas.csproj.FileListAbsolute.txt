@@ -1,0 +1,27 @@
+C:\Users\miche\OneDrive\Escritorio\Tp_Laboratorio_2\TP3\QuinteroHernandez.Michell.2d.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\miche\OneDrive\Escritorio\Tp_Laboratorio_2\TP3\QuinteroHernandez.Michell.2d.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\miche\OneDrive\Escritorio\Tp_Laboratorio_2\TP3\QuinteroHernandez.Michell.2d.TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\miche\OneDrive\Escritorio\Tp_Laboratorio_2\TP3\QuinteroHernandez.Michell.2d.TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\miche\OneDrive\Escritorio\Tp_Laboratorio_2\TP3\QuinteroHernandez.Michell.2d.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+C:\Users\miche\OneDrive\Escritorio\Tp_Laboratorio_2\TP3\QuinteroHernandez.Michell.2d.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\miche\OneDrive\Escritorio\Tp_Laboratorio_2\TP3\QuinteroHernandez.Michell.2d.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CopyComplete
+C:\Users\miche\OneDrive\Escritorio\Tp_Laboratorio_2\TP3\QuinteroHernandez.Michell.2d.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\miche\OneDrive\Escritorio\Tp_Laboratorio_2\TP3\QuinteroHernandez.Michell.2d.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 3\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 3\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CopyComplete
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 3\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 3\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CopyComplete
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
