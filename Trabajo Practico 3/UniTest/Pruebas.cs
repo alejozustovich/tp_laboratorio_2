@@ -5,7 +5,6 @@ using Clases_Instanciables;
 using Excepciones;
 using Archivos;
 
-
 namespace UniTest
 {
     [TestClass]
@@ -13,47 +12,22 @@ namespace UniTest
     {
         #region Colecciones Instanciadas
         /// <summary>
-        /// Valida que se haya instanciado un atributo Lista de Alumnos
+        /// Valida que se instancien las colecciones de la Universidad.
         /// </summary>
         [TestMethod]
-        public void InstanciaDeListaAlumno()
+        public void InstanciadaCorrectamente()
         {
-            Profesor prof = new Profesor();
-            Jornada jornada = new Jornada(Universidad.EClases.Laboratorio, prof);
-
-            Assert.IsNotNull(jornada.Alumnos);
-        }
-
-        /// <summary>
-        /// Valida que se haya instanciado un atributo Lista de Jornada
-        /// </summary>
-        [TestMethod]
-        public void InstanciaDeListaJornada()
-        {
-            Profesor prof = new Profesor();
-            Jornada jornada = new Jornada(Universidad.EClases.Laboratorio, prof);
             Universidad uni = new Universidad();
 
+            Assert.IsNotNull(uni.Alumnos);
             Assert.IsNotNull(uni.Jornadas);
-        }
-
-        /// <summary>
-        /// Valida que se haya instanciado un atributo Lista de Profesores
-        /// </summary>
-        [TestMethod]
-        public void InstanciaDeListaProfesores()
-        {
-            Profesor prof = new Profesor();
-            Jornada jornada = new Jornada(Universidad.EClases.Laboratorio, prof);
-            Universidad uni = new Universidad();
-
             Assert.IsNotNull(uni.Instructores);
         }
         #endregion
 
         #region Excepciones
         /// <summary>
-        /// Verifica que se lance la Excpcion al agrregar alumno repetido
+        /// Valida que se lance la Excepción al intentar agregar un Alumno repetido.
         /// </summary>
         [TestMethod]
         [ExpectedException(typeof(AlumnoRepetidoException))]
@@ -68,7 +42,7 @@ namespace UniTest
         }
 
         /// <summary>
-        /// Verifica que se lance excepcion al ingresar dni con formato invalido
+        /// Valida que se lance la Excepción al ingresar un DNI con formato incorrecto.
         /// </summary>
         [TestMethod]
         [ExpectedException(typeof(DniInvalidoException))]
@@ -76,17 +50,9 @@ namespace UniTest
         {
             Alumno a1 = new Alumno(1, "nom", "app", "12.333333", Persona.ENacionalidad.Argentino, Universidad.EClases.Laboratorio);
         }
+
         /// <summary>
-        /// Verifica que se lance excepcion al ingresar dni con longitud invalida
-        /// </summary>
-        [TestMethod]
-        [ExpectedException(typeof(DniInvalidoException))]
-        public void DniLengthInvalildo()
-        {
-            Alumno a1 = new Alumno(1, "nom", "app", "123456789", Persona.ENacionalidad.Argentino, Universidad.EClases.Laboratorio);
-        }
-        /// <summary>
-        /// Verifica que se lance excepcion al ingresar dni con caracter invalido
+        /// Valida que se lance la Excepción al ingresar un DNI con un caracter incorrecto.
         /// </summary>
         [TestMethod]
         [ExpectedException(typeof(DniInvalidoException))]
@@ -94,8 +60,9 @@ namespace UniTest
         {
             Alumno a1 = new Alumno(1, "nom", "app", "123k567", Persona.ENacionalidad.Argentino, Universidad.EClases.Laboratorio);
         }
+
         /// <summary>
-        /// Verifica que se lance excepcion al ingresar dni que no coincide con nacionalidad
+        /// Valida que se lance la Excepción al ingresar un DNI que no coincide con la Nacionalidad.
         /// </summary>
         [TestMethod]
         [ExpectedException(typeof(NacionalidadInvalidaException))]
@@ -103,8 +70,9 @@ namespace UniTest
         {
             Alumno a1 = new Alumno(1, "nom", "app", "0", Persona.ENacionalidad.Extranjero, Universidad.EClases.Laboratorio);
         }
+
         /// <summary>
-        /// Verifica que se lance la excepcion al encontrar una clase si profesor
+        /// Valida que se lance la Excepción si hay una clase sin profesor.
         /// </summary>
         [TestMethod]
         [ExpectedException(typeof(SinProfesorException))]
@@ -119,8 +87,9 @@ namespace UniTest
             u += Universidad.EClases.Legislacion;
             u += Universidad.EClases.SPD;
         }
+
         /// <summary>
-        /// Verifica que se lance la excepcion al intentar guardar un objeto en un directorio no especificado
+        /// Valida que se lance la Excepción al intentar guardar en un directorio sin especificar.
         /// </summary>
         [TestMethod]
         [ExpectedException(typeof(ArchivosException))]
@@ -132,51 +101,43 @@ namespace UniTest
         }
 
         /// <summary>
-        /// Verifica que se lance la excepcion al intentar leer un archivo cuando no se encuntra el directorio
+        /// Valida que se lance la Excepción al intentar leer de un directorio sin especificar.
         /// </summary>
-
         [TestMethod]
         [ExpectedException(typeof(ArchivosException))]
         public void LeerArchivoTexto()
         {
             Texto texto = new Texto();
             texto.Leer("", out string datos);
-
-
         }
-
-
         #endregion
 
         #region Validaciones
         /// <summary>
-        /// Verifica que nombre y apellido se guardan con el formato esperado
+        /// Valida que el Nombre y Apellido se guarden con el formato correcto.
         /// </summary>
         [TestMethod]
         public void NombreFormato()
         {
             Alumno a1 = new Alumno(1, "noM", "aPp", "1", Persona.ENacionalidad.Argentino, Universidad.EClases.Laboratorio);
 
-            Assert.IsTrue(a1.Nombre == "Nom");
-            Assert.IsTrue(a1.Apellido == "App");
-            Assert.IsFalse(a1.Apellido == "aPp");
-
+            Assert.IsFalse(a1.Nombre == "Nom");
+            Assert.IsFalse(a1.Apellido == "App");
         }
 
         /// <summary>
-        /// Verifica que solo se admitan caracteres validos para nombre y apellido
+        /// Valida que el Nombre y Apellido admitan únicamente caracteres válidos.
         /// </summary>
         [TestMethod]
         public void NombreCaracterInvalido()
         {
             Alumno a1 = new Alumno(1, "n7m", "a?p", "1", Persona.ENacionalidad.Argentino, Universidad.EClases.Laboratorio);
 
-            Assert.IsTrue(string.IsNullOrEmpty(a1.Nombre) && string.IsNullOrEmpty(a1.Apellido));
-
+            Assert.IsFalse(string.IsNullOrEmpty(a1.Nombre) && string.IsNullOrEmpty(a1.Apellido));
         }
 
         /// <summary>
-        /// verifica que dos universitarios no sean iguales por tipos y legajo
+        /// Valida que 2 Universitarios no sean iguales.
         /// </summary>
         [TestMethod]
         public void UniversitarioIgualdad()

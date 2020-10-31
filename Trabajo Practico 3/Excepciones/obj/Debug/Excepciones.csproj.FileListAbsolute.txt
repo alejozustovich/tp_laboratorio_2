@@ -16,3 +16,9 @@ C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\La
 C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
 C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 3\Excepciones\obj\Debug\Excepciones.dll
 C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 3\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 3\Excepciones\obj\Debug\Excepciones.pdb

@@ -48,3 +48,28 @@ C:\Users\miche\OneDrive\Escritorio\Tp_Laboratorio_2\TP3\QuinteroHernandez.Michel
 C:\Users\miche\OneDrive\Escritorio\Tp_Laboratorio_2\TP3\QuinteroHernandez.Michell.2d.TP3\UniTest\obj\Debug\UniTest.csproj.CopyComplete
 C:\Users\miche\OneDrive\Escritorio\Tp_Laboratorio_2\TP3\QuinteroHernandez.Michell.2d.TP3\UniTest\obj\Debug\UniTest.dll
 C:\Users\miche\OneDrive\Escritorio\Tp_Laboratorio_2\TP3\QuinteroHernandez.Michell.2d.TP3\UniTest\obj\Debug\UniTest.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 3\UniTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 3\UniTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 3\UniTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 3\UniTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 3\UniTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 3\UniTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 3\UniTest\bin\Debug\UniTest.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 3\UniTest\bin\Debug\UniTest.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 3\UniTest\bin\Debug\Archivos.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 3\UniTest\bin\Debug\Clases Abstractas.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 3\UniTest\bin\Debug\Clases Instanciables.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 3\UniTest\bin\Debug\Excepciones.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 3\UniTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 3\UniTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 3\UniTest\bin\Debug\Archivos.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 3\UniTest\bin\Debug\Clases Abstractas.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 3\UniTest\bin\Debug\Clases Instanciables.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 3\UniTest\bin\Debug\Excepciones.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 3\UniTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 3\UniTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 3\UniTest\obj\Debug\UniTest.csprojAssemblyReference.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 3\UniTest\obj\Debug\UniTest.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 3\UniTest\obj\Debug\UniTest.csproj.CopyComplete
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 3\UniTest\obj\Debug\UniTest.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 3\UniTest\obj\Debug\UniTest.pdb
