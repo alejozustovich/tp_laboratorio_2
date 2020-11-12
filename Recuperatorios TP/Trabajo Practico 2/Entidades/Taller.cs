@@ -12,14 +12,14 @@ namespace Entidades
     public sealed class Taller
     {
         #region ATRIBUTOS
-        List<Vehiculo> vehiculos;
-        int espacioDisponible;
+        private List<Vehiculo> vehiculos;
+        private int espacioDisponible;
         #endregion
 
         #region ENUMERADOS
         public enum ETipo
         {
-            Moto, Automovil, Camioneta, Todos
+            Ciclomotor, Sedan, Suv, Todos
         }
         #endregion
 
@@ -71,19 +71,19 @@ namespace Entidades
             {
                 switch (tipo)
                 {
-                    case ETipo.Camioneta:
+                    case ETipo.Suv:
                         if(v is Suv)
                         {
                             sb.AppendLine(v.Mostrar());
                         }
                         break;
-                    case ETipo.Moto:
+                    case ETipo.Ciclomotor:
                         if(v is Ciclomotor)
                         {
                             sb.AppendLine(v.Mostrar());
                         }  
                         break;
-                    case ETipo.Automovil:
+                    case ETipo.Sedan:
                         if(v is Sedan)
                         {
                             sb.AppendLine(v.Mostrar());

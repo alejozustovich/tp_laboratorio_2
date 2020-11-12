@@ -17,6 +17,7 @@ namespace Entidades
         /// <param name="color"></param>
         public Ciclomotor(EMarca marca, string chasis, ConsoleColor color) : base(chasis, marca, color)
         {
+
         }
         #endregion
 
@@ -44,7 +45,7 @@ namespace Entidades
 
             sb.AppendLine("CICLOMOTOR");
             sb.AppendLine(base.Mostrar());
-            sb.AppendLine("TAMAÑO : " + this.Tamanio);
+            sb.AppendLine("TAMAÑO : " + this.Tamanio.ToString());
             sb.AppendLine("");
             sb.AppendLine("---------------------");
             

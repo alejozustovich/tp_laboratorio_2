@@ -23,9 +23,9 @@ namespace Entidades
         #endregion
 
         #region ATRIBUTOS
-        protected EMarca marca;  
-        protected string chasis; 
-        protected ConsoleColor color; 
+        private EMarca marca;  
+        private string chasis; 
+        private ConsoleColor color; 
         #endregion
 
         #region PROPIEDADES
@@ -57,14 +57,7 @@ namespace Entidades
         /// <returns></returns>
         public virtual string Mostrar()
         {
-            StringBuilder sb = new StringBuilder();
-
-            sb.AppendLine("CHASIS: " + this.chasis);
-            sb.AppendLine("MARCA: " + this.marca.ToString());
-            sb.AppendLine("COLOR: " + this.color.ToString());
-            sb.AppendLine("---------------------");
-
-            return sb.ToString();
+            return (string)this;
         }
         #endregion
 
@@ -75,7 +68,14 @@ namespace Entidades
         /// <param name="p"></param>
         public static explicit operator string(Vehiculo p)
         {
-            return p.Mostrar();
+            StringBuilder sb = new StringBuilder();
+
+            sb.AppendFormat($"CHASIS: {p.chasis}\n");
+            sb.AppendFormat($"MARCA: {p.marca}\n");
+            sb.AppendFormat($"COLOR: {p.color}\n");
+            sb.AppendLine("---------------------");
+
+            return sb.ToString();
         }
 
         /// <summary>
@@ -86,14 +86,7 @@ namespace Entidades
         /// <returns></returns>
         public static bool operator ==(Vehiculo v1, Vehiculo v2)
         {
-            bool sonIguales = false;
-
-            if ( !(v1 is null) && !(v2 is null) && (v1.chasis == v2.chasis))
-            {
-                sonIguales = true;
-            }
-
-            return sonIguales;
+            return (v1.chasis == v2.chasis);
         }
 
         /// <summary>

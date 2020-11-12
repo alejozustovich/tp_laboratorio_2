@@ -17,7 +17,7 @@ namespace Entidades
         #endregion
 
         #region ATRIBUTOS
-        ETipo tipo;
+        private ETipo tipo;
         #endregion
 
         #region CONSTRUCTORES
@@ -69,8 +69,8 @@ namespace Entidades
 
             sb.AppendLine("SEDAN");
             sb.AppendLine(base.Mostrar());
-            sb.AppendLine("TAMAÑO : " + this.Tamanio);
-            sb.AppendLine("TIPO   : " + this.tipo);
+            sb.AppendLine("TAMAÑO : " + this.Tamanio.ToString());
+            sb.AppendLine("TIPO   : " + this.tipo.ToString());
             sb.AppendLine("");
             sb.AppendLine("---------------------");
             

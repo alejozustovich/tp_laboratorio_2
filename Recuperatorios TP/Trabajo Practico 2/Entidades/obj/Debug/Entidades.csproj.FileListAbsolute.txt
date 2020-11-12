@@ -29,3 +29,9 @@ C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2d
 C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Trabajos Practicos\tp_laboratorio_2\Trabajo Practico 2\Entidades\obj\Debug\Entidades.pdb
 C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Trabajos Practicos\tp_laboratorio_2\Trabajo Practico 2\Entidades\bin\Debug\Entidades.dll
 C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Trabajos Practicos\tp_laboratorio_2\Trabajo Practico 2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 2\Entidades\bin\Debug\Entidades.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 2\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 2\Entidades\obj\Debug\Entidades.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 2\Entidades\obj\Debug\Entidades.pdb

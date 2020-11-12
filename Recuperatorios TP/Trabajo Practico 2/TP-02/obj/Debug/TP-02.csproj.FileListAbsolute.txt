@@ -51,3 +51,13 @@ C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2d
 C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Trabajos Practicos\tp_laboratorio_2\Trabajo Practico 2\TP-02\obj\Debug\TP-02.csproj.CopyComplete
 C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Trabajos Practicos\tp_laboratorio_2\Trabajo Practico 2\TP-02\obj\Debug\TP-02.exe
 C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Trabajos Practicos\tp_laboratorio_2\Trabajo Practico 2\TP-02\obj\Debug\TP-02.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 2\TP-02\bin\Debug\TP-02.exe.config
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 2\TP-02\bin\Debug\TP-02.exe
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 2\TP-02\bin\Debug\TP-02.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 2\TP-02\bin\Debug\Entidades.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 2\TP-02\bin\Debug\Entidades.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 2\TP-02\obj\Debug\TP-02.csprojAssemblyReference.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 2\TP-02\obj\Debug\TP-02.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 2\TP-02\obj\Debug\TP-02.csproj.CopyComplete
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 2\TP-02\obj\Debug\TP-02.exe
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 2\TP-02\obj\Debug\TP-02.pdb
