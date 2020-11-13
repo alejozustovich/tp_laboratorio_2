@@ -21,7 +21,7 @@ namespace Archivos
         {
             try
             {
-                using (StreamWriter sw = new StreamWriter(archivo))
+                using (StreamWriter sw = new StreamWriter(archivo, true))
                 {
                     sw.WriteLine(datos);
 
