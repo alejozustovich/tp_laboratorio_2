@@ -1,0 +1,26 @@
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 4\Test\bin\Debug\Test.exe.config
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 4\Test\bin\Debug\Test.exe
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 4\Test\bin\Debug\Test.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 4\Test\bin\Debug\Entidades.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 4\Test\bin\Debug\Excepciones.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 4\Test\bin\Debug\Entidades.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 4\Test\bin\Debug\Excepciones.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 4\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 4\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 4\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 4\Test\obj\Debug\Test.exe
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 4\Test\obj\Debug\Test.pdb
+C:\Users\Gigabyte\Desktop\Trabajo Practico 4\Test\bin\Debug\Test.exe.config
+C:\Users\Gigabyte\Desktop\Trabajo Practico 4\Test\bin\Debug\Test.exe
+C:\Users\Gigabyte\Desktop\Trabajo Practico 4\Test\bin\Debug\Test.pdb
+C:\Users\Gigabyte\Desktop\Trabajo Practico 4\Test\bin\Debug\Entidades.dll
+C:\Users\Gigabyte\Desktop\Trabajo Practico 4\Test\bin\Debug\Excepciones.dll
+C:\Users\Gigabyte\Desktop\Trabajo Practico 4\Test\bin\Debug\Entidades.pdb
+C:\Users\Gigabyte\Desktop\Trabajo Practico 4\Test\bin\Debug\Excepciones.pdb
+C:\Users\Gigabyte\Desktop\Trabajo Practico 4\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Gigabyte\Desktop\Trabajo Practico 4\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\Trabajo Practico 4\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Gigabyte\Desktop\Trabajo Practico 4\Test\obj\Debug\Test.exe
+C:\Users\Gigabyte\Desktop\Trabajo Practico 4\Test\obj\Debug\Test.pdb
+C:\Users\Gigabyte\Desktop\Trabajo Practico 4\Test\bin\Debug\Archivos.dll
+C:\Users\Gigabyte\Desktop\Trabajo Practico 4\Test\bin\Debug\Archivos.pdb

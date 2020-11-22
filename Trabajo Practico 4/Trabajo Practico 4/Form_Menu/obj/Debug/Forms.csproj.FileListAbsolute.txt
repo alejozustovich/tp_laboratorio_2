@@ -1,0 +1,162 @@
+C:\Users\elfer\Desktop\UTN\Labo - Progra II\Laboratorio2_Programacion2\Parciales\AcuñaZustovich.Alejo\Form_Menu\bin\Debug\Form_Menu.exe.config
+C:\Users\elfer\Desktop\UTN\Labo - Progra II\Laboratorio2_Programacion2\Parciales\AcuñaZustovich.Alejo\Form_Menu\bin\Debug\Form_Menu.exe
+C:\Users\elfer\Desktop\UTN\Labo - Progra II\Laboratorio2_Programacion2\Parciales\AcuñaZustovich.Alejo\Form_Menu\bin\Debug\Form_Menu.pdb
+C:\Users\elfer\Desktop\UTN\Labo - Progra II\Laboratorio2_Programacion2\Parciales\AcuñaZustovich.Alejo\Form_Menu\bin\Debug\Entidades.dll
+C:\Users\elfer\Desktop\UTN\Labo - Progra II\Laboratorio2_Programacion2\Parciales\AcuñaZustovich.Alejo\Form_Menu\bin\Debug\Entidades.pdb
+C:\Users\elfer\Desktop\UTN\Labo - Progra II\Laboratorio2_Programacion2\Parciales\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.csprojAssemblyReference.cache
+C:\Users\elfer\Desktop\UTN\Labo - Progra II\Laboratorio2_Programacion2\Parciales\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Form_Menu.FrmMenu.resources
+C:\Users\elfer\Desktop\UTN\Labo - Progra II\Laboratorio2_Programacion2\Parciales\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Form_Menu.Properties.Resources.resources
+C:\Users\elfer\Desktop\UTN\Labo - Progra II\Laboratorio2_Programacion2\Parciales\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.csproj.GenerateResource.cache
+C:\Users\elfer\Desktop\UTN\Labo - Progra II\Laboratorio2_Programacion2\Parciales\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+C:\Users\elfer\Desktop\UTN\Labo - Progra II\Laboratorio2_Programacion2\Parciales\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.csproj.CopyComplete
+C:\Users\elfer\Desktop\UTN\Labo - Progra II\Laboratorio2_Programacion2\Parciales\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Form_Menu.exe
+C:\Users\elfer\Desktop\UTN\Labo - Progra II\Laboratorio2_Programacion2\Parciales\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Form_Menu.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Parciales\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\bin\Debug\Form_Menu.exe.config
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Parciales\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\bin\Debug\Form_Menu.exe
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Parciales\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\bin\Debug\Form_Menu.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Parciales\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\bin\Debug\Entidades.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Parciales\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\bin\Debug\Entidades.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Parciales\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.csprojAssemblyReference.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Parciales\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Form_Menu.Properties.Resources.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Parciales\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.csproj.GenerateResource.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Parciales\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Parciales\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.csproj.CopyComplete
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Parciales\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Form_Menu.exe
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Parciales\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Form_Menu.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Parciales\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.FrmMenu.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Parciales\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.FrmLogin.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Parciales\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.FrmAltaProducto.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Parciales\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.FrmBajaProducto.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Parciales\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.FrmModifProducto.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Parciales\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.FrmComprar.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Parciales\Primer Parcial_v2\AcuñaZustovich.Alejo\Form_Menu\bin\Debug\Form_Menu.exe.config
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Parciales\Primer Parcial_v2\AcuñaZustovich.Alejo\Form_Menu\bin\Debug\Form_Menu.exe
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Parciales\Primer Parcial_v2\AcuñaZustovich.Alejo\Form_Menu\bin\Debug\Form_Menu.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Parciales\Primer Parcial_v2\AcuñaZustovich.Alejo\Form_Menu\bin\Debug\Entidades.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Parciales\Primer Parcial_v2\AcuñaZustovich.Alejo\Form_Menu\bin\Debug\Entidades.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Parciales\Primer Parcial_v2\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.csprojAssemblyReference.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Parciales\Primer Parcial_v2\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.FrmAltaProducto.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Parciales\Primer Parcial_v2\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.FrmBajaProducto.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Parciales\Primer Parcial_v2\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.FrmComprar.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Parciales\Primer Parcial_v2\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.FrmLogin.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Parciales\Primer Parcial_v2\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.FrmMenu.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Parciales\Primer Parcial_v2\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.FrmModifProducto.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Parciales\Primer Parcial_v2\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Form_Menu.Properties.Resources.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Parciales\Primer Parcial_v2\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.csproj.GenerateResource.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Parciales\Primer Parcial_v2\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Parciales\Primer Parcial_v2\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.csproj.CopyComplete
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Parciales\Primer Parcial_v2\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Form_Menu.exe
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Parciales\Primer Parcial_v2\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Form_Menu.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\Parciales\Primer Parcial_v2\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.FrmAltaCliente.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\bin\Debug\Form_Menu.exe.config
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\bin\Debug\Form_Menu.exe
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\bin\Debug\Form_Menu.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\bin\Debug\Entidades.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\bin\Debug\Entidades.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.csprojAssemblyReference.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.FrmAltaCliente.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.FrmAltaProducto.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.FrmBajaProducto.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.FrmComprar.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.FrmLogin.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.FrmMenu.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.FrmModifProducto.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Form_Menu.Properties.Resources.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.csproj.GenerateResource.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.csproj.CopyComplete
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Form_Menu.exe
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\Laboratorio2_Programacion2\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Form_Menu.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\bin\Debug\Form_Menu.exe.config
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\bin\Debug\Form_Menu.exe
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\bin\Debug\Form_Menu.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\bin\Debug\Entidades.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\bin\Debug\Entidades.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.csprojAssemblyReference.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.FrmAltaCliente.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.FrmAltaProducto.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.FrmBajaProducto.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.FrmComprar.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.FrmLogin.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.FrmMenu.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.FrmModifProducto.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Form_Menu.Properties.Resources.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.csproj.GenerateResource.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.csproj.CopyComplete
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Form_Menu.exe
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\2do Cuatri 2020\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Form_Menu.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\bin\Debug\Form_Menu.exe.config
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\bin\Debug\Form_Menu.exe
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\bin\Debug\Form_Menu.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\bin\Debug\Entidades.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\bin\Debug\Entidades.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.csprojAssemblyReference.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.FrmAltaCliente.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.FrmAltaProducto.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.FrmBajaProducto.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.FrmComprar.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.FrmLogin.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.FrmMenu.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.FrmModifProducto.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Form_Menu.Properties.Resources.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.csproj.GenerateResource.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Forms.csproj.CopyComplete
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Form_Menu.exe
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\parcial_laboratorio_2\Primer Parcial\AcuñaZustovich.Alejo\Form_Menu\obj\Debug\Form_Menu.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 4\Form_Menu\bin\Debug\Form_Menu.exe.config
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 4\Form_Menu\bin\Debug\Form_Menu.exe
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 4\Form_Menu\bin\Debug\Form_Menu.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 4\Form_Menu\bin\Debug\Entidades.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 4\Form_Menu\bin\Debug\Excepciones.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 4\Form_Menu\bin\Debug\Entidades.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 4\Form_Menu\bin\Debug\Excepciones.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 4\Form_Menu\obj\Debug\Forms.csprojAssemblyReference.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 4\Form_Menu\obj\Debug\Forms.FrmAltaProducto.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 4\Form_Menu\obj\Debug\Forms.FrmComprar.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 4\Form_Menu\obj\Debug\Forms.FrmMenu.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 4\Form_Menu\obj\Debug\Form_Menu.Properties.Resources.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 4\Form_Menu\obj\Debug\Forms.csproj.GenerateResource.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 4\Form_Menu\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 4\Form_Menu\obj\Debug\Forms.csproj.CopyComplete
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 4\Form_Menu\obj\Debug\Form_Menu.exe
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\Laboratorio2_Programacion2\Trabajos Practicos\Trabajo Practico 4\Form_Menu\obj\Debug\Form_Menu.pdb
+C:\Users\Gigabyte\Desktop\Trabajo Practico 4\Form_Menu\bin\Debug\Form_Menu.exe.config
+C:\Users\Gigabyte\Desktop\Trabajo Practico 4\Form_Menu\bin\Debug\Form_Menu.exe
+C:\Users\Gigabyte\Desktop\Trabajo Practico 4\Form_Menu\bin\Debug\Form_Menu.pdb
+C:\Users\Gigabyte\Desktop\Trabajo Practico 4\Form_Menu\bin\Debug\Entidades.dll
+C:\Users\Gigabyte\Desktop\Trabajo Practico 4\Form_Menu\bin\Debug\Excepciones.dll
+C:\Users\Gigabyte\Desktop\Trabajo Practico 4\Form_Menu\bin\Debug\Entidades.pdb
+C:\Users\Gigabyte\Desktop\Trabajo Practico 4\Form_Menu\bin\Debug\Excepciones.pdb
+C:\Users\Gigabyte\Desktop\Trabajo Practico 4\Form_Menu\obj\Debug\Forms.csprojAssemblyReference.cache
+C:\Users\Gigabyte\Desktop\Trabajo Practico 4\Form_Menu\obj\Debug\Forms.FrmMenu.resources
+C:\Users\Gigabyte\Desktop\Trabajo Practico 4\Form_Menu\obj\Debug\Form_Menu.Properties.Resources.resources
+C:\Users\Gigabyte\Desktop\Trabajo Practico 4\Form_Menu\obj\Debug\Forms.csproj.GenerateResource.cache
+C:\Users\Gigabyte\Desktop\Trabajo Practico 4\Form_Menu\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\Trabajo Practico 4\Form_Menu\obj\Debug\Forms.csproj.CopyComplete
+C:\Users\Gigabyte\Desktop\Trabajo Practico 4\Form_Menu\obj\Debug\Form_Menu.exe
+C:\Users\Gigabyte\Desktop\Trabajo Practico 4\Form_Menu\obj\Debug\Form_Menu.pdb
+C:\Users\Gigabyte\Desktop\Trabajo Practico 4\Form_Menu\bin\Debug\Archivos.dll
+C:\Users\Gigabyte\Desktop\Trabajo Practico 4\Form_Menu\bin\Debug\Archivos.pdb
+C:\Users\Gigabyte\Desktop\Trabajo Practico 4\Form_Menu\obj\Debug\Form_Menu.FrmCompra.resources
+C:\Users\Gigabyte\Desktop\Trabajo Practico 4\Form_Menu\obj\Debug\Form_Menu.FrmAlta.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 4\Trabajo Practico 4\Form_Menu\bin\Debug\Form_Menu.exe.config
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 4\Trabajo Practico 4\Form_Menu\bin\Debug\Form_Menu.exe
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 4\Trabajo Practico 4\Form_Menu\bin\Debug\Form_Menu.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 4\Trabajo Practico 4\Form_Menu\bin\Debug\Entidades.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 4\Trabajo Practico 4\Form_Menu\bin\Debug\Excepciones.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 4\Trabajo Practico 4\Form_Menu\bin\Debug\Archivos.dll
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 4\Trabajo Practico 4\Form_Menu\bin\Debug\Entidades.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 4\Trabajo Practico 4\Form_Menu\bin\Debug\Excepciones.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 4\Trabajo Practico 4\Form_Menu\bin\Debug\Archivos.pdb
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 4\Trabajo Practico 4\Form_Menu\obj\Debug\Forms.csprojAssemblyReference.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 4\Trabajo Practico 4\Form_Menu\obj\Debug\Form_Menu.FrmAlta.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 4\Trabajo Practico 4\Form_Menu\obj\Debug\Form_Menu.FrmCompra.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 4\Trabajo Practico 4\Form_Menu\obj\Debug\Forms.FrmMenu.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 4\Trabajo Practico 4\Form_Menu\obj\Debug\Form_Menu.Properties.Resources.resources
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 4\Trabajo Practico 4\Form_Menu\obj\Debug\Forms.csproj.GenerateResource.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 4\Trabajo Practico 4\Form_Menu\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 4\Trabajo Practico 4\Form_Menu\obj\Debug\Forms.csproj.CopyComplete
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 4\Trabajo Practico 4\Form_Menu\obj\Debug\Form_Menu.exe
+C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Trabajo Practico 4\Trabajo Practico 4\Form_Menu\obj\Debug\Form_Menu.pdb
