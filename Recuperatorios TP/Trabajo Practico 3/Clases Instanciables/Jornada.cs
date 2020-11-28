@@ -196,7 +196,9 @@ namespace Clases_Instanciables
             {
                 sb.AppendLine(item.ToString());
             }
-            
+
+            sb.AppendLine("<------------------------------------------------>\n");
+
             return sb.ToString();
         }
         #endregion

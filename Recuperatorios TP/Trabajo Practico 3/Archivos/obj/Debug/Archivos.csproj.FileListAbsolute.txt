@@ -52,3 +52,12 @@ C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp
 C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
 C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Archivos\obj\Debug\Archivos.dll
 C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\Gigabyte\Desktop\UTN Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Gigabyte\Desktop\UTN Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Gigabyte\Desktop\UTN Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\Gigabyte\Desktop\UTN Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\Gigabyte\Desktop\UTN Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\Gigabyte\Desktop\UTN Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\UTN Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\Gigabyte\Desktop\UTN Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Gigabyte\Desktop\UTN Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Archivos\obj\Debug\Archivos.pdb

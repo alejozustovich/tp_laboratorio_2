@@ -319,7 +319,6 @@ namespace Clases_Instanciables
             foreach (Jornada item in this.Jornadas)
             {
                 sb.AppendFormat(item.ToString());
-                sb.AppendLine("<------------------------------------------------->");
             }
             
             return sb.ToString();

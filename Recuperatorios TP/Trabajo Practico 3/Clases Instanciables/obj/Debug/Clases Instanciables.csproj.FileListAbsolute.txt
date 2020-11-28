@@ -76,3 +76,16 @@ C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp
 C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
 C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
 C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb
+C:\Users\Gigabyte\Desktop\UTN Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\Users\Gigabyte\Desktop\UTN Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\Users\Gigabyte\Desktop\UTN Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Clases Instanciables\bin\Debug\Archivos.dll
+C:\Users\Gigabyte\Desktop\UTN Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\Gigabyte\Desktop\UTN Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Clases Instanciables\bin\Debug\Excepciones.dll
+C:\Users\Gigabyte\Desktop\UTN Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Clases Instanciables\bin\Debug\Archivos.pdb
+C:\Users\Gigabyte\Desktop\UTN Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\Gigabyte\Desktop\UTN Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Clases Instanciables\bin\Debug\Excepciones.pdb
+C:\Users\Gigabyte\Desktop\UTN Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+C:\Users\Gigabyte\Desktop\UTN Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\UTN Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
+C:\Users\Gigabyte\Desktop\UTN Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\Users\Gigabyte\Desktop\UTN Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb

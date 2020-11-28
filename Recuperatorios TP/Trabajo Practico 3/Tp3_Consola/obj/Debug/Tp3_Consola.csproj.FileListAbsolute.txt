@@ -78,3 +78,19 @@ C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp
 C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Tp3_Consola\obj\Debug\Tp3_Consola.csproj.CopyComplete
 C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Tp3_Consola\obj\Debug\Tp3_Consola.exe
 C:\Users\Gigabyte\Desktop\Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Tp3_Consola\obj\Debug\Tp3_Consola.pdb
+C:\Users\Gigabyte\Desktop\UTN Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Tp3_Consola\bin\Debug\Tp3_Consola.exe.config
+C:\Users\Gigabyte\Desktop\UTN Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Tp3_Consola\bin\Debug\Tp3_Consola.exe
+C:\Users\Gigabyte\Desktop\UTN Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Tp3_Consola\bin\Debug\Tp3_Consola.pdb
+C:\Users\Gigabyte\Desktop\UTN Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Tp3_Consola\bin\Debug\Archivos.dll
+C:\Users\Gigabyte\Desktop\UTN Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Tp3_Consola\bin\Debug\Clases Abstractas.dll
+C:\Users\Gigabyte\Desktop\UTN Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Tp3_Consola\bin\Debug\Clases Instanciables.dll
+C:\Users\Gigabyte\Desktop\UTN Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Tp3_Consola\bin\Debug\Excepciones.dll
+C:\Users\Gigabyte\Desktop\UTN Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Tp3_Consola\bin\Debug\Archivos.pdb
+C:\Users\Gigabyte\Desktop\UTN Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Tp3_Consola\bin\Debug\Clases Abstractas.pdb
+C:\Users\Gigabyte\Desktop\UTN Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Tp3_Consola\bin\Debug\Clases Instanciables.pdb
+C:\Users\Gigabyte\Desktop\UTN Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Tp3_Consola\bin\Debug\Excepciones.pdb
+C:\Users\Gigabyte\Desktop\UTN Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Tp3_Consola\obj\Debug\Tp3_Consola.csprojAssemblyReference.cache
+C:\Users\Gigabyte\Desktop\UTN Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Tp3_Consola\obj\Debug\Tp3_Consola.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\UTN Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Tp3_Consola\obj\Debug\Tp3_Consola.csproj.CopyComplete
+C:\Users\Gigabyte\Desktop\UTN Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Tp3_Consola\obj\Debug\Tp3_Consola.exe
+C:\Users\Gigabyte\Desktop\UTN Programación\05. Laboratorio II - Programación II\tp_laboratorio_2\Recuperatorios TP\Trabajo Practico 3\Tp3_Consola\obj\Debug\Tp3_Consola.pdb
